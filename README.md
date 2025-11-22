@@ -14,7 +14,7 @@
 name: "Kawsar Mahmud Tanveer Khan"
 location: "Dhaka, Bangladesh 🇧🇩"
 education: "EEE Final Year | Daffodil International University"
-specialization: ["Networking", "Electronic", "Embedded Systems"]
+specialization: [ "Electronic", "Embedded Systems"]
 fun_fact: "Can switch between coding and soldering in the same hour without coffee ☕"
 ```
 
