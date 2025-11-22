@@ -45,7 +45,7 @@ fun_fact: "Can switch between coding and soldering in the same hour without coff
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### � Networking & IoT
+### 🌐 Networking & IoT
 ![Blynk](https://img.shields.io/badge/Blynk-0078D4?style=for-the-badge&logo=blynk&logoColor=white)
 ![GNS3](https://img.shields.io/badge/GNS3-FF6B35?style=for-the-badge&logo=gns3&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
@@ -96,7 +96,6 @@ fun_fact: "Can switch between coding and soldering in the same hour without coff
 <tr>
 <td width="50%">
 
-### 📱 Arduino Digital Multimeter
 ### 📚 Book Recommender System
 *Personalized Reading Recommendation Engine*
 
@@ -135,9 +134,9 @@ fun_fact: "Can switch between coding and soldering in the same hour without coff
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KMTanVeer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KMTanVeer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KMTanVeer&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KMTanVeer&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages"/>
 
 </div>
 
@@ -220,60 +219,3 @@ fun_fact: "Can switch between coding and soldering in the same hour without coff
 </details>
 
 </div>
-│   ├── css/
-│   │   └── styles.css       # Main stylesheet
-│   ├── js/
-│   │   ├── main.js          # Core JavaScript functionality
-│   │   └── app.js           # Additional features
-│   └── img/                 # Project images and assets
-└── README.md
-```
-
-## 🚀 **Key Highlights**
-
-### **Blog System**
-- **Category Filtering**: Arduino, IoT, MATLAB, Power Systems
-- **Scattered Animations**: Cards scatter in random directions during filtering
-- **Newsletter**: One-line subscription with glassmorphism design
-- **Individual Posts**: Detailed Arduino and ESP32 tutorials
-
-### **Projects Showcase**
-- **Animated Counters**: Statistics count up from 0 to target values
-- **Featured Projects**: Arduino Multimeter, Distance Protection, ESP32 IoT
-- **Technology Tags**: Visual indicators for tools and languages used
-- **Status Tracking**: Completed, Ongoing, Planning project states
-
-### **Professional Contact**
-- **WhatsApp**: Direct messaging for quick queries
-- **Telegram**: Secure communication for tech discussions
-- **Email**: Formal project discussions and collaborations
-- **LinkedIn**: Professional networking and opportunities
-
-## 🎯 **Target Audience**
-
-- **EEE Students**: Learning resources and project tutorials
-- **IoT Enthusiasts**: ESP32 and Arduino project guides
-- **Professionals**: Technical collaboration and networking
-- **Recruiters**: Portfolio showcase and contact information
-
-## 📈 **Performance Features**
-
-- **Optimized Loading**: Efficient scroll reveal system
-- **Mobile Responsive**: Seamless experience across devices
-- **SEO Optimized**: Meta tags and structured content
-- **Fast Navigation**: Intuitive user interface
-
-## 🤝 **Contributing**
-
-This is a personal portfolio project, but suggestions and feedback are welcome!
-
-## 📬 **Contact**
-
-- **Website**: [itanveer.tech](https://itanveer.me)
-- **Email**: Professional inquiries welcome
-- **WhatsApp**: Quick technical discussions
-- **LinkedIn**: [Kawsar Mahmud Tanveer Khan](https://linkedin.com/in/kawsartanveer)
-
-## 📄 **License**
-
-© 2025 Kawsar Mahmud Tanveer Khan. All rights reserved.
