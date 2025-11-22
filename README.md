@@ -14,9 +14,7 @@
 name: "Kawsar Mahmud Tanveer Khan"
 location: "Dhaka, Bangladesh 🇧🇩"
 education: "EEE Final Year | Daffodil International University"
-specialization: ["Networking", "IoT", "Embedded Systems"]
-current_focus: "Cyber-Physical Threat Detection in Smart Grid Communications"
-career_goal: "Network Engineer at a Multinational Company"
+specialization: ["Networking", "Electronic", "Embedded Systems"]
 fun_fact: "Can switch between coding and soldering in the same hour without coffee ☕"
 ```
 
@@ -43,7 +41,6 @@ fun_fact: "Can switch between coding and soldering in the same hour without coff
 ### 🔧 Tools & Technologies
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -77,7 +74,7 @@ fun_fact: "Can switch between coding and soldering in the same hour without coff
 
 **Tech Stack:** `ESP32` `Arduino IDE` `Blynk` `Power Electronics`
 
-[🔗 View Project](https://github.com/KMTanVeer/mppt-solar-controller) | [📖 Live Demo](https://itanveer.tech/project-mppt-solar.html)
+[🔗 View Project](https://itanveer.tech/project-mppt-solar.html) | [📖 Live Demo](https://itanveer.tech/project-mppt-solar.html)
 
 </td>
 <td width="50%">
@@ -92,7 +89,7 @@ fun_fact: "Can switch between coding and soldering in the same hour without coff
 
 **Tech Stack:** `Power Electronics` `ESP32` `SPWM Control` `IoT`
 
-[🔗 View Project](https://github.com/KMTanVeer/online-ups-design) | [📖 Live Demo](https://itanveer.tech/project-online-ups.html)
+[🔗 View Project](https://itanveer.tech/project-online-ups.html) | [📖 Live Demo](https://itanveer.tech/project-online-ups.html)
 
 </td>
 </tr>
@@ -100,31 +97,31 @@ fun_fact: "Can switch between coding and soldering in the same hour without coff
 <td width="50%">
 
 ### 📱 Arduino Digital Multimeter
-*Precision Measurement Device*
+### 📚 Book Recommender System
+*Personalized Reading Recommendation Engine*
 
-- Multi-parameter measurement capabilities
-- Digital display with user-friendly interface
-- Calibrated for accurate readings
-- Portable and cost-effective design
+- Collaborative filtering for user–book similarity  
+- Popularity-based ranking for trending titles  
+- Machine learning models for accurate suggestions  
+- Real-time recommendation generation
 
-**Tech Stack:** `Arduino` `C++` `Electronics` `PCB Design`
+**Tech Stack:** `Python` `Pandas` `Scikit-Learn` `Machine Learning` `Data Analysis`
 
-[🔗 View Project](https://github.com/KMTanVeer/arduino-multimeter)
+[🔗 View Project](https://github.com/KMTanVeer/BookRecommender) | [📖 Live Demo](https://bookrecommender-s80k.onrender.com/)
+
 
 </td>
 <td width="50%">
 
-### 🛡️ Smart Grid Security (Thesis)
-*Cyber-Physical Threat Detection*
+### 🪖 Smart Helmet  
+*Intelligent Safety & Monitoring System*
+- Real-time detection of impact, fall, and hazardous conditions  
+- Multi-sensor monitoring for gas, temperature, and movement  
+- Secure wireless communication with instant alerts  
+- ML-based anomaly detection for early risk identification  
+**Tech Stack:** `Python` `IoT` `ML` `Sensors` `ESP32` `Network Security`
 
-- Advanced threat detection algorithms
-- Communication network security analysis
-- Real-time monitoring and alerting
-- Machine learning-based anomaly detection
 
-**Tech Stack:** `Python` `Network Security` `ML` `Smart Grid`
-
-[📝 Research Paper] | [🔬 Methodology]
 
 </td>
 </tr>
@@ -152,33 +149,6 @@ fun_fact: "Can switch between coding and soldering in the same hour without coff
 
 ---
 
-## 🎯 2025 Goals & Roadmap
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[🎓 Graduate EEE] --> B[🔍 Complete Thesis]
-    B --> C[💼 Network Engineer Role]
-    C --> D[🌐 IoT Expertise]
-    D --> E[🚀 Innovation Projects]
-    
-    style A fill:#58A6FF,stroke:#58A6FF,color:#fff
-    style B fill:#58A6FF,stroke:#58A6FF,color:#fff  
-    style C fill:#28A745,stroke:#28A745,color:#fff
-    style D fill:#28A745,stroke:#28A745,color:#fff
-    style E fill:#FF6B35,stroke:#FF6B35,color:#fff
-```
-
-</div>
-
-### 🎯 Current Focus Areas:
-- 🔬 **Thesis Completion**: Cyber-Physical Threat Detection in Smart Grids
-- 💻 **Skill Enhancement**: Advanced networking protocols & IoT architectures  
-- 🏢 **Career Preparation**: Targeting multinational networking companies
-- 🚀 **Innovation**: Developing scalable IoT solutions for Bangladesh
-
----
 
 ## 🏅 Achievements & Certifications
 
@@ -299,7 +269,7 @@ This is a personal portfolio project, but suggestions and feedback are welcome!
 
 ## 📬 **Contact**
 
-- **Website**: [itanveer.tech](https://itanveer.tech)
+- **Website**: [itanveer.tech](https://itanveer.me)
 - **Email**: Professional inquiries welcome
 - **WhatsApp**: Quick technical discussions
 - **LinkedIn**: [Kawsar Mahmud Tanveer Khan](https://linkedin.com/in/kawsartanveer)
@@ -307,7 +277,3 @@ This is a personal portfolio project, but suggestions and feedback are welcome!
 ## 📄 **License**
 
 © 2025 Kawsar Mahmud Tanveer Khan. All rights reserved.
-
----
-
-**Built with ❤️ for the tech community**
