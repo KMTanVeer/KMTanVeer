@@ -170,9 +170,9 @@ fun_fact: "Can switch between coding and soldering in the same hour without coff
 
 ### 📫 Let's Build Something Amazing Together!
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-itanveer.tech-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://itanveer.tech)
+[![Portfolio](https://img.shields.io/badge/Portfolio-itanveer.me-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://itanveer.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kawsar%20Tanveer-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kawsartanveer)
-[![Email](https://img.shields.io/badge/Email-tanveer@itanveer.tech-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanveer@itanveer.tech)
+[![Email](https://img.shields.io/badge/Email-tanveerk.eee@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanveerk.eee@gmail.com)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KMTanVeer)
 [![Facebook](https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/itzzVeer)
