@@ -2,7 +2,7 @@
   
 # 👋 Hello, I'm Kawsar Mahmud Tanveer Khan
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=EEE+Final+Year+Student;IoT+%26+Embedded+Systems+Enthusiast;Future+Network+Engineer;Tech+Innovation+Explorer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=EEE+Final+Year+Student;Future+Engineer;Tech+Innovation+Explorer" alt="Typing SVG" />
 
 </div>
 
@@ -20,7 +20,6 @@ fun_fact: "Can switch between coding and soldering in the same hour without coff
 
 <div align="center">
 
-### 🌟 Building the future with IoT, one microcontroller at a time
 
 </div>
 
