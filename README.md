@@ -98,7 +98,7 @@ fun_fact: "Can switch between coding and soldering in the same hour without coff
 ### 📚 Book Recommender System
 *Personalized Reading Recommendation Engine*
 
-- Collaborative filtering for user–book similarity  
+- Collaborative filtering for user-book similarity  
 - Popularity-based ranking for trending titles  
 - Machine learning models for accurate suggestions  
 - Real-time recommendation generation
@@ -111,7 +111,7 @@ fun_fact: "Can switch between coding and soldering in the same hour without coff
 </td>
 <td width="50%">
 
-###  Smart Helmet  
+### 🛡️ Smart Helmet  
 **Accident Detection & Emergency Alert System**
 
 - Real-time accident and fall detection using **MPU6050 (Accelerometer & Gyroscope)**
