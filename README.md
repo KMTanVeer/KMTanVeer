@@ -121,7 +121,7 @@ fun_fact: "Can switch between coding and soldering in the same hour without coff
 - Battery-powered, wearable design suitable for two-wheeler riders
 
 **Tech Stack:**  
-`ESP32` `C++ (Arduino)` `MPU6050` `GPS (NEO-6M)` `SIM800L GSM` `Embedded Systems` `IoT`
+`ESP32` `C++ (Arduino)` `MPU6050` `GPS (NEO-8M)` `SIM800L GSM` `Embedded Systems` `IoT`
 
 
 
