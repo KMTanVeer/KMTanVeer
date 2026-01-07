@@ -112,12 +112,17 @@ fun_fact: "Can switch between coding and soldering in the same hour without coff
 <td width="50%">
 
 ### 🪖 Smart Helmet  
-*Intelligent Safety & Monitoring System*
-- Real-time detection of impact, fall, and hazardous conditions  
-- Multi-sensor monitoring for gas, temperature, and movement  
-- Secure wireless communication with instant alerts  
-- ML-based anomaly detection for early risk identification  
-**Tech Stack:** `Python` `IoT` `ML` `Sensors` `ESP32` `Network Security`
+**Accident Detection & Emergency Alert System**
+
+- Real-time accident and fall detection using **MPU6050 (Accelerometer & Gyroscope)**
+- Automatic **SOS SMS alert** with live **GPS location** after crash detection
+- Manual emergency trigger and audible **buzzer warning system**
+- On-device decision logic for reliable crash identification (threshold-based)
+- Battery-powered, wearable design suitable for two-wheeler riders
+
+**Tech Stack:**  
+`ESP32` `C++ (Arduino)` `MPU6050` `GPS (NEO-6M)` `SIM800L GSM` `Embedded Systems` `IoT`
+
 
 
 
