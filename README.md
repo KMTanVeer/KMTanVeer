@@ -111,7 +111,7 @@ fun_fact: "Can switch between coding and soldering in the same hour without coff
 </td>
 <td width="50%">
 
-### 🪖 Smart Helmet  
+###  Smart Helmet  
 **Accident Detection & Emergency Alert System**
 
 - Real-time accident and fall detection using **MPU6050 (Accelerometer & Gyroscope)**
