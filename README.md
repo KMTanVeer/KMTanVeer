@@ -208,14 +208,14 @@
 ### 📈 Stats Overview
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KMTanVeer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&cache_seconds=86400" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KMTanVeer&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&cache_seconds=86400" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KMTanVeer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KMTanVeer&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages"/>
 </p>
 
 ### 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=KMTanVeer&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=58A6FF&dates=8B949E&sideNums=58A6FF" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=KMTanVeer&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=58A6FF&dates=8B949E&sideNums=58A6FF" alt="GitHub Streak Stats" />
 </p>
 
 ### 📅 Contribution Graph
