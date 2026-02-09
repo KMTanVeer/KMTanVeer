@@ -228,19 +228,9 @@
 
 ---
 
-## 🏅 Achievements & Certifications
 
 <div align="center">
 
-| 🏆 Achievement | 📅 Year | 🏢 Organization | 🎯 Category |
-|:---|:---:|:---|:---|
-| **Mechatronics & PLC Basics** | 2024 | Industry Certification | 🤖 Automation |
-| **IoT Fundamentals** | 2024 | Coursera | 📡 IoT |
-| **Network Security Basics** | 2024 | LinkedIn Learning | 🔒 Security |
-| **Electronics Project Innovation** | 2023 | University Project | ⚡ Hardware |
-| **MPPT Controller Implementation** | 2024 | Personal Project | 🌞 Energy |
-
-<br/>
 
 ### 🎓 Skills & Expertise
 
