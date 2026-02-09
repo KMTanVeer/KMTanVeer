@@ -207,10 +207,6 @@
 
 ### 📈 Stats Overview
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KMTanVeer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KMTanVeer&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages"/>
-</p>
 
 ### 🔥 Contribution Streak
 
@@ -227,9 +223,6 @@
 </div>
 
 ---
-
-
-<div align="center">
 
 
 ### 🎓 Skills & Expertise
@@ -289,7 +282,7 @@
 
 <br/><br/>
 
-⭐ **From [KMTanVeer](https://github.com/KMTanVeer)** | *Building Tomorrow's Connected World Today* 🚀
+⭐ **From [Kawsar Mahmud Tanveer Khan](https://github.com/KMTanVeer)** | 
 
 <br/>
 
@@ -299,46 +292,8 @@
 
 ---
 
-<div align="center">
-  
-### 🎬 Fun Corner
 
-<details>
-<summary>🎭 <b>When I'm Not Coding...</b></summary>
 
-<br/>
 
-<table>
-<tr>
-<td align="center" width="33%">
-🏍️<br/><b>Bike Riding</b><br/>Exploring Dhaka streets on weekends
-</td>
-<td align="center" width="33%">
-🎬<br/><b>Movie Buff</b><br/>Sci-fi and tech thrillers enthusiast
-</td>
-<td align="center" width="33%">
-🔧<br/><b>DIY Electronics</b><br/>Turning components into gadgets
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-☕<br/><b>Green Tea</b><br/>Powers late-night coding sessions
-</td>
-<td align="center" width="33%">
-🌱<br/><b>Tech Explorer</b><br/>Latest IoT innovations tracker
-</td>
-<td align="center" width="33%">
-📚<br/><b>Current Status</b><br/>Balancing thesis & projects
-</td>
-</tr>
-</table>
-
-<br/>
-
-*Life is about balance - between circuits and code, between theory and practice!* ⚡
-
-</details>
 
 </div>
-
----
